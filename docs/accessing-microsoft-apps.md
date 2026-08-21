@@ -16,7 +16,7 @@ nav_order: 1
 1. Open your browser of choice and login to your Microsoft Account using your UofT credentials (via UTORid login). (Often the easiest way to access this is by logging into your [UofT email](https://mail.utoronto.ca).)
 2. From any of the pages (your Outlook, SharePoint, or other Microsoft App), select the waffle at the top left of your screen and navigate to the *More apps* option.
 
-    <img src='/assets/images/%7B39071A94-5D0D-47FE-8A5E-0B665DA1786D%7D.png' alt='Accessing the Microsoft Apps Page' title='' width='603' height='493' />    
+    <img src='/assets/images/Accessing-the-Microsoft-Apps-Page.png' alt='Accessing the Microsoft Apps Page' title='' width='603' height='493' />    
 
 3. Your landing page might look something like below. Click on the *All Apps →* tab to explore more of the apps available to you.
 
