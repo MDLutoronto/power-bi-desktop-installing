@@ -20,9 +20,9 @@ nav_order: 1
 
 3. Your landing page might look something like below. Click on the *All Apps →* tab to explore more of the apps available to you.
 
-    <img src='/assets/images/%7B1F1B8682-9D45-40E8-8264-3BA5DD884ACD%7D.png' alt='Microsoft Apps Selection' title='' width='648' height='299' />
+    <img src='/assets/images/Microsoft-Apps-Selection.png' alt='Microsoft Apps Selection' title='' width='648' height='299' />
 4. You'll now find more apps, products, and services available to you. In this section, navigate to **Power BI**, which will now bring you to the Power BI Service Homepage.
 
-    <img src='/assets/images/%7BE017DCE1-8C50-48C2-8CD2-DE00E75344F4%7D.png' alt='Power BI in All Apps' title='' width='642' height='637' />
+    <img src='/assets/images/Power-BI-in-All-Apps.png' alt='Power BI in All Apps' title='' width='642' height='637' />
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [Power BI](https://mdlutoronto.github.io/tutorials-search/?tool=Power+BI)
