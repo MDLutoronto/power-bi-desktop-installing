@@ -16,6 +16,6 @@ nav_order: 3
 1. Open the newly installed Power BI Desktop app. The splash page will allow you to sign\-in. Use your UofT email address, which will prompt you to use your UTORid credentials again.
 2. There may be a few steps of registering your account with the app. Once it has initialized, you are all set to use Power BI Desktop!
 
-    <img src='/assets/images/Logging-into-Power-BI.png' alt='Logging into Power BI' title='' width='645' height='270' />
+    <img src="{{ '/assets/images/Logging-into-Power-BI.png' | relative_url }}" alt='Logging into Power BI' title='' width='645' height='270' />
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [Power BI](https://mdlutoronto.github.io/tutorials-search/?tool=Power+BI)
